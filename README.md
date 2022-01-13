@@ -1,2 +1,2 @@
 # Amazon_webscrapping_alert
-Amazon product scrapping program which sent alert when product prices decrease
+Amazon product scrapping program which send alert when product prices decrease
