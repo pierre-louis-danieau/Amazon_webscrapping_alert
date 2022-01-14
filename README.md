@@ -6,9 +6,9 @@ My github repo presents a project used to scrap the Amazon website list of produ
 
 ## 🤖 Program explanation
 
-- amazon_bot.py : python web scrapping program using selenium and beautifulsoup
-- main.py : main program (connect to de MongoDB, launch the scrapping & send email alert)
-- requirements.txt : list of all dependencies
+- amazon_bot.py : python web scrapping program using selenium and beautifulsoup.
+- main.py : main program (connect to de MongoDB, launch the scrapping & send email alert).
+- requirements.txt : list of all dependencies.
 
 ## 👨‍💻 Technologies used 
 - Python (Beautifulsoup, selenium, smtplib...)
